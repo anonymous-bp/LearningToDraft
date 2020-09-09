@@ -7,7 +7,6 @@ Edit config.py
 ## Environment
 
 * Python 3.6+
-* PyGame 1.9+
 * PyTorch 1.0+
 * LibTorch 1.0+
 * MSVC14.0/GCC6.0+
