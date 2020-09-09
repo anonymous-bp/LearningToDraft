@@ -1,4 +1,4 @@
-# Single Round BanPick
+# Learn to draft
 A drafting method based on MCTS and nerual network. This code is provied for testing and training on single machine.
 
 ## Args
