@@ -1,0 +1,4 @@
+/data1/victchen/single_round_banpick/build/CMakeFiles/edit_cache.dir
+/data1/victchen/single_round_banpick/build/CMakeFiles/rebuild_cache.dir
+/data1/victchen/single_round_banpick/build/CMakeFiles/library_swig_compilation.dir
+/data1/victchen/single_round_banpick/build/CMakeFiles/_library.dir
