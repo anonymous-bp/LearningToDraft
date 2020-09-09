@@ -37,5 +37,5 @@ python3.6 leaner_test.py placeholder method1 method2 #play between different met
 3. Parallel Monte-Carlo Tree Search
 4. An Analysis of Virtual Loss in Parallel MCTS
 5. A Lock-free Multithreaded Monte-Carlo Tree Search Algorithm
-6. https://github.com/hijkzzz/alpha-zero-gomoku
+6. github.com/hijkzzz/alpha-zero-gomoku
 7. github.com/suragnair/alpha-zero-general
