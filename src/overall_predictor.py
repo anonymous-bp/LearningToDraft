@@ -100,7 +100,7 @@ class overall_network(torch.nn.Module):
         self.value_output_dim.append(1) # add a layer
         self.generate_linear_weights(self.value_output_weights, input_size, self.value_output_dim)
 
-        self.sigmoid = torch.nn.Sigmoid()
+        self.tanh = torch.nn.Tahn()
         self.softmax = torch.nn.Softmax(dim=1)
         print('weights generated done.')
 
@@ -163,7 +163,7 @@ class overall_network(torch.nn.Module):
                 value_input = self.activation_function(layer(value_input))
             else:
                 value_input = layer(value_input)
-        value_output = self.sigmoid(value_input)
+        value_output = self.tanh(value_input)
 
         # get policy
         policy_input = hidden_outputs
